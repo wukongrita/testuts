@@ -1,0 +1,31 @@
+body {
+    background-color: cyan;
+}
+
+.biru {
+    color: blue;
+}
+
+#header {
+    border: 1px solid red;
+    text-align: center;
+}
+
+#header h1 {
+    color: blue;
+    text-shadow: black 2px 2px 4px;
+}
+
+
+
+#menu {
+    border: 1px solid blue;
+}
+
+#content {
+    border: 1px solid yellow;
+}
+
+#footer {
+    border: 1px solid black;
+}
